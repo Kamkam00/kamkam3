@@ -1,0 +1,21 @@
+{
+  "name": "kamkam3",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "สูตร สล็อต สล็อตjoker สล็อตpg เล่นแล้วไม่มีอันตราย100% ง่ายฉับไวทันใจ ไม่ยุ่งยาก เข้าใจง่าย ใช้ได้เลย",
+  "keywords": [
+    "สูตร สล็อต",
+    "สูตรสล็อต",
+    "สูตรสล็อตjoker",
+    "สูตรสล็อตpg",
+    "สล็อต",
+    "สล็อตjoker",
+    "สล็อตpg",
+    "สูตร สล็อต สล็อตjoker สล็อตpg"
+  ],
+  "repository": "https://github.com/Kamkam00/kamkam3",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
